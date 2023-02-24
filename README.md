@@ -14,7 +14,7 @@ npm i
 - Start the server
 
 ```bash
-node server/server.js
+node ./server.js
 ```
 
 - You should get the message
