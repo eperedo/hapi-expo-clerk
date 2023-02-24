@@ -9,6 +9,8 @@ cd server
 npm i
 ```
 
+- Replace your secret key in the **server.js** file in the **setClerkApiKey** method.
+
 - Start the server
 
 ```bash
@@ -28,6 +30,8 @@ Server running on http://0.0.0.0:3000
 ```bash
 npm i
 ```
+
+- Replace your public key in the **App.js** file in the **publishableKey** prop.
 
 - Start the app
 
